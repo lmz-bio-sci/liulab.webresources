@@ -1,1 +1,1 @@
-Web page for Liu Lab
+Liu Lab Web Resources
